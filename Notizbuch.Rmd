@@ -1506,8 +1506,54 @@ Gehen Sie zum Arzt!
 Gehen Sie zum Arzt?
 
 
+Hm,vielleicht kannst du am Abend einen Krãutertee trinken.
+
+Ja,das stimmt.Aber ich habe nur wenig Zeit.Das schaffe ich nicht.
+
+Was machst du so gegen Stress ?
+
+Sie möchten eigentlich gerade gar kein Obst und Gemüse essen ?
+
+Was sollen wir essen ?
+
+Was möchte ich gerad gern essen ?
+Das sollen Sie nicht tun.
+Unser körper braucht viele verschiedene Nahrungsmittel .
+was gut für ihn ist.
+Wir sollen uns vor dem Essen fragen:"Habe ich Hunger?"
+Der Körper kann uns sagen:"Das ist gesund für mich."
+
+Die Satzmelodie geht bei Ja-/Nein-Fragen nach "oben",bei Bitten und Ratschlagen nach "unten".
+
+Seit Monaten habe ich Rückenschmerzen. Haben Sie einen Tipp?
+
+Gehwn Sie in die Apotheke und holen eine Salbe gegen Schmerzen.
+
+Das hilft nichts ? Dann fragen Sie den Arzt.
+
+auf keinen Fall
+
+Hals | Halse
+Finger | Finger
+Rücken | Rücken
+Bauch | Bauche
+Fuß | Füße
+Knie | Knie
+Ohr | Ohren
+Auge | Augen
+Arm | Arme
+Hand | Hãnde
+Zahn | Zãhne
+
+eigentlich
 
 
+
+Das Nahrungsmittel
+
+Der Körper
+
+Der Ernährungswissenschafter
 
 Geben Sie ihm doch diesen Tee!
 
